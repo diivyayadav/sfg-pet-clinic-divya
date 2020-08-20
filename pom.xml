@@ -26,10 +26,11 @@
         <maven.javadoc.skip>true</maven.javadoc.skip>
     </properties>
 
-    <dependencies>
-
-
-    </dependencies>
+    <scm>
+        <developerConnection>scm:git:https://github.com/diivyayadav/sfg-pet-clinic-divya.git
+        </developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
     <build>
         <plugins>
