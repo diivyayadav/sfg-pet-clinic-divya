@@ -1,0 +1,5 @@
+model\PetType.class
+model\Pet.class
+model\Vet.class
+model\Owner.class
+model\Person.class
