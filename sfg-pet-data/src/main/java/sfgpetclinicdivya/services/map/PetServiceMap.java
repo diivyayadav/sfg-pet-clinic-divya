@@ -1,8 +1,8 @@
-package com.example.sfgpetclinicdivya.services.map;
+package sfgpetclinicdivya.services.map;
 
-import com.example.sfgpetclinicdivya.model.Pet;
-import com.example.sfgpetclinicdivya.services.PetService;
 import org.springframework.stereotype.Service;
+import sfgpetclinicdivya.model.Pet;
+import sfgpetclinicdivya.services.PetService;
 
 import java.util.Set;
 
