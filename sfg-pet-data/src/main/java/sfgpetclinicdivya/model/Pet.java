@@ -1,8 +1,8 @@
-package com.example.sfgpetclinicdivya.model;
+package sfgpetclinicdivya.model;
 
 import java.time.LocalDate;
 
-public class Pet extends BaseEntity{
+public class Pet extends BaseEntity {
 
     private Owner owner;
     private PetType petType;

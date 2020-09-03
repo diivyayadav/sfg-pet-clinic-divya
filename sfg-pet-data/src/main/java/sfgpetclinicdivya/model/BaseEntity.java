@@ -1,4 +1,4 @@
-package com.example.sfgpetclinicdivya.model;
+package sfgpetclinicdivya.model;
 
 import java.io.Serializable;
 
